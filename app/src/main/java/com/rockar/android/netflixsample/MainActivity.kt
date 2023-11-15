@@ -7,7 +7,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import com.rockar.android.netflixsample.ui.LandingPage
+import com.rockar.android.netflixsample.ui.netflix.LandingPage
 import com.rockar.android.netflixsample.ui.theme.NetflixSampleTheme
 
 class MainActivity : ComponentActivity() {
